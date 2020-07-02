@@ -1,2 +1,5 @@
-console.log("hello js")
+
+console.log("hello js");
+a=20;
+b=30;
 
